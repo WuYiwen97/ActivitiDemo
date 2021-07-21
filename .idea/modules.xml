@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActSpringBootDemo/ActSpringBootDemo.iml" filepath="$PROJECT_DIR$/ActSpringBootDemo/ActSpringBootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActSpringDemo/ActSpringDemo.iml" filepath="$PROJECT_DIR$/ActSpringDemo/ActSpringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ActivitiDemo.iml" filepath="$PROJECT_DIR$/.idea/ActivitiDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicDemo/BasicDemo.iml" filepath="$PROJECT_DIR$/BasicDemo/BasicDemo.iml" />
+    </modules>
+  </component>
+</project>
